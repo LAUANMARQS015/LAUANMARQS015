@@ -4,7 +4,7 @@
 
 ![MARQS's GitHub stats](https://github-readme-stats.vercel.app/api?username=LAUANMARQS015&show_icons=true&theme=onedark)
 
-## Tecnologias que uso no meu dia a dia
+## Tecnologias que uso no meu MUNDO Terráqueo
 
 
 <div style="display:inline_block"><br/>
